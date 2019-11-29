@@ -1,2 +1,0 @@
-web ./build/install/server_project/bin/server_project
-heroku ps:scale web=1
