@@ -1,0 +1,1 @@
+web ./build/install/server_project/bin/server_project
